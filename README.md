@@ -25,7 +25,7 @@
     - Action
     - Reward Function
     - State Transition Probability
-    - Discount Rate
+    - Discount Factor
     - Policy
   - Value Function and Q-Function
 - Day 2 (7/22)
