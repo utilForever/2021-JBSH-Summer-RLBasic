@@ -18,7 +18,7 @@
 
 ## Contents
 
-- Day 1 (7/21)
+- Day 1 (7/21) [[Lecture]](./1%20-%20Lecture/210721%20-%20Introduction%20to%20RL%2C%20Day%201.pdf)
   - What is Reinforcement Learning?
   - MDP (Markov Decision Process)
     - State
