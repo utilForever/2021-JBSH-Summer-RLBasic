@@ -28,7 +28,7 @@
     - Discount Factor
     - Policy
   - Value Function and Q-Function
-- Day 2 (7/22) [[Lecture]](./1%20-%20Lecture/210722%20-%20Introduction%20to%20RL%2C%20Day%202.pdf)
+- Day 2 (7/22) [[Lecture]](./1%20-%20Lecture/210722%20-%20Introduction%20to%20RL%2C%20Day%202.pdf) [[Code]](./2%20-%20Code/210722%20-%20Introduction%20to%20RL%2C%20Day%202)
   - Bellman Equation
     - Bellman Expectation Equation
     - Bellman Optimality Equation
