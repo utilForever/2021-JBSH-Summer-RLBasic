@@ -38,7 +38,7 @@
   - Exercise #1
     - Policy Iteration
     - Value Iteration
-- Day 3 (7/28)
+- Day 3 (7/28) [[Lecture]](./1%20-%20Lecture/210728%20-%20Introduction%20to%20RL%2C%20Day%203.pdf)
   - Policy Evaluation
     - Monte-Carlo Prediction
     - Temporal-Difference Prediction
