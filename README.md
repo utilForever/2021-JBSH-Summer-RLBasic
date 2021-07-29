@@ -48,7 +48,7 @@
     - Monet-Carlo
     - SARSA
     - Q-Learning
-- Day 4 (7/29)
+- Day 4 (7/29) [[Assignment]](./3%20-%20Assignment/210729%20-%20Maze)
   - Assignment #1 (Maze)
     - SARSA
     - Q-Learning
