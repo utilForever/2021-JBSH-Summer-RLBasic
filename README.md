@@ -52,7 +52,7 @@
   - Assignment #1 (Maze)
     - SARSA
     - Q-Learning
-- Day 5 (8/2)
+- Day 5 (8/2) [[Lecture]](./1%20-%20Lecture/210802%20-%20Introduction%20to%20RL%2C%20Day%205.pdf)
   - Deep Learning with PyTorch
     - What is PyTorch?
     - PyTorch Tutorial
