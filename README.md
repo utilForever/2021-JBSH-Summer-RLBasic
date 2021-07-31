@@ -54,14 +54,8 @@
     - Q-Learning
 - Day 5 (8/2)
   - Deep Learning with PyTorch
-    - Tensors
-    - Gradients
-    - NN building blocks
-    - Custom layers
-    - The final glue – loss functions and optimizers
-    - Monitoring with TensorBoard
-    - Example – GAN on Atari images
-    - PyTorch Ignite
+    - What is PyTorch?
+    - PyTorch Tutorial
 - Day 6 (8/5)
   - Deep SARSA
   - Policy Gradient
