@@ -56,7 +56,7 @@
   - Deep Learning with PyTorch
     - What is PyTorch?
     - PyTorch Tutorial
-- Day 6 (8/5) [[Lecture]](./1%20-%20Lecture/210805%20-%20Introduction%20to%20RL%2C%20Day%206.pdf)
+- Day 6 (8/5) [[Lecture]](./1%20-%20Lecture/210805%20-%20Introduction%20to%20RL%2C%20Day%206.pdf) [[Code]](./2%20-%20Code/210805%20-%20Introduction%20to%20RL%2C%20Day%206)
   - Deep SARSA
   - Policy Gradient
     - Policy-based Reinforcement Learning
