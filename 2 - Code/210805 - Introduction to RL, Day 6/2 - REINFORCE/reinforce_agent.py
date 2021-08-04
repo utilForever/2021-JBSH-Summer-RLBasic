@@ -39,7 +39,7 @@ class ReinforceAgent:
             nn.Linear(24, 24),
             nn.ReLU(),
             nn.Linear(24, self.action_size),
-            nn.Softmax(dim=self.action_size),
+            nn.Softmax(),
         )
         return model
 
