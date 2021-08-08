@@ -64,7 +64,7 @@
   - Exercise #3
     - Deep SARSA
     - REINFORCE
-- Day 7 (8/9)
+- Day 7 (8/9) [[Lecture]](./1%20-%20Lecture/210809%20-%20Introduction%20to%20RL%2C%20Day%207.pdf)
   - DQN (Deep Q-Network)
   - Exercise #4
     - DQN
