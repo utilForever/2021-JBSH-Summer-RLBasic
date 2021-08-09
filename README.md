@@ -68,7 +68,7 @@
   - DQN (Deep Q-Network)
   - Exercise #4
     - DQN
-- Day 8 (8/12)
+- Day 8 (8/12) [[Assignment]](./3%20-%20Assignment/210812%20-%20LunarLander)
   - Assignment #2 (LunarLander-v0)
     - DQN
 
