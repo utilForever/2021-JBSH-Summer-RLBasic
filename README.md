@@ -52,7 +52,7 @@
   - Assignment #1 (Maze)
     - SARSA
     - Q-Learning
-- Day 5 (8/2) [[Lecture]](./1%20-%20Lecture/210802%20-%20Introduction%20to%20RL%2C%20Day%205.pdf) [[Code]](https://cutt.ly/mQgEDyJ)
+- Day 5 (8/2) [[Lecture]](./1%20-%20Lecture/210802%20-%20Introduction%20to%20RL%2C%20Day%205.pdf) [[Google Colab]](https://cutt.ly/mQgEDyJ)
   - Deep Learning with PyTorch
     - What is PyTorch?
     - PyTorch Tutorial
@@ -68,7 +68,7 @@
   - DQN (Deep Q-Network)
   - Exercise #4
     - DQN
-- Day 8 (8/12) [[Assignment]](./3%20-%20Assignment/210812%20-%20LunarLander)
+- Day 8 (8/12) [[Assignment]](./3%20-%20Assignment/210812%20-%20LunarLander) [[Google Colab]](https://cutt.ly/eQS2dlV)
   - Assignment #2 (LunarLander-v0)
     - DQN
 
