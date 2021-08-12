@@ -69,7 +69,7 @@
   - Exercise #4
     - DQN
 - Day 8 (8/12) [[Assignment]](./3%20-%20Assignment/210812%20-%20LunarLander) [[Google Colab]](https://cutt.ly/eQS2dlV)
-  - Assignment #2 (LunarLander-v0)
+  - Assignment #2 (LunarLander-v2)
     - DQN
 
 ## How To Contribute
